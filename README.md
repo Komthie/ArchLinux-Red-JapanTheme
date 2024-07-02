@@ -132,6 +132,8 @@ Elements:
     swww -i /home/user/your_directory_japan_image_here/japanarch.png && wal -i /home/user/your-directory-japan-here/japanarch.png
 
 ## Mouse RedJapanTHeme Install:
+![image](https://github.com/Komthie/ArchLinux-Red-JapanTheme/assets/95933637/dca1d9c0-1f24-4e45-a917-4e1616b407d5)
+
 
       http://www.rw-designer.com/cursor-set/redset
       install e move for the ./~icons directory
